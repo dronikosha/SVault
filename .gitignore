@@ -1,0 +1,6 @@
+# Exclude everything
+/*
+# Except these
+!README.md
+!SVault-*.dmg
+!.gitignore
