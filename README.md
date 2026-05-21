@@ -22,11 +22,18 @@ A lightweight macOS menu bar app for securely storing passwords, API keys, seed 
 - **Password strength meter** — visual feedback when creating your master password
 - **No network, no telemetry** — 100% local, nothing leaves your machine
 
+## Screenshots
+
+<p align="center">
+  <img src="photos/1.png" alt="Locked" width="400">
+  <img src="photos/2.png" alt="Unlocked" width="400">
+</p>
+
 ## Installation
 
 ### Download DMG
 
-1. Go to [Releases](https://github.com/na-derevo/SVault/releases)
+1. Go to [Releases](https://github.com/dronikosha/SVault/releases)
 2. Download the latest `SVault-1.0.dmg`
 3. Open the DMG and drag **SVault** to the **Applications** folder
 4. Right-click the app and select **Open** (required on first launch for unsigned apps)
@@ -93,11 +100,18 @@ Proprietary. All rights reserved. Source code is not distributed.
 - **Индикатор надёжности пароля** — визуальная оценка мастер-пароля при создании
 - **Без сети и телеметрии** — 100% локально, ничего не покидает ваш компьютер
 
+## Скриншоты
+
+<p align="center">
+  <img src="photos/1.png" alt="Заблокировано" width="400">
+  <img src="photos/2.png" alt="Разблокировано" width="400">
+</p>
+
 ## Установка
 
 ### Скачивание DMG
 
-1. Перейдите в [Releases](https://github.com/na-derevo/SVault/releases)
+1. Перейдите в [Releases](https://github.com/dronikosha/SVault/releases)
 2. Скачайте последнюю версию `SVault-1.0.dmg`
 3. Откройте DMG и перетащите **SVault** в папку **Программы**
 4. Нажмите правой кнопкой на приложении и выберите **Открыть** (требуется при первом запуске для неподписанных приложений)

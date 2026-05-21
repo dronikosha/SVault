@@ -4,3 +4,5 @@
 !README.md
 !SVault-*.dmg
 !.gitignore
+!photos/
+!photos/*
